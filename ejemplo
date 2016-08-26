@@ -1,0 +1,26 @@
+<Patient xmlns="http://hl7.org/fhir">
+   <id value="107867"/>
+   <meta>
+      <versionId value="6"/>
+      <lastUpdated value="2016-08-25T12:25:11.603-04:00"/>
+   </meta>
+   <language value="English"/>
+   <text>
+      <status value="generated"/>
+      <div xmlns="http://www.w3.org/1999/xhtml">Shruthijp ,FHIRClient1</div>
+   </text>
+   <identifier>
+      <system value="urn:system"/>
+      <value value="df2fcff5-5dc4-4197-b855-38ef3915c984"/>
+   </identifier>
+   <name>
+      <text value="Shruthijp FHIRClient1"/>
+      <family value="Shruthijp"/>
+      <given value="FHIRClient1"/>
+   </name>
+   <telecom>
+      <system value="phone"/>
+   </telecom>
+   <gender value="male"/>
+   <birthDate value="1987-11-11"/>
+</Patient>
